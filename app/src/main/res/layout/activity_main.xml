@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f7eae2"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/flashcard_question"
+        android:layout_width="match_parent"
+        android:layout_height="224dp"
+        android:gravity="center"
+        android:text="Who is the 44th President of the United States?"
+        android:textSize="40sp"
+        tools:layout_editor_absoluteX="63dp"
+        tools:layout_editor_absoluteY="103dp" />
+
+    <TextView
+        android:id="@+id/flashcard_answer"
+        android:layout_width="match_parent"
+        android:layout_height="224dp"
+        android:gravity = "center"
+        android:text="Barack Obama"
+        android:textSize="40sp"
+        android:visibility="invisible"
+        tools:layout_editor_absoluteX="63dp"
+        tools:layout_editor_absoluteY="103dp" />
+
+</RelativeLayout>
