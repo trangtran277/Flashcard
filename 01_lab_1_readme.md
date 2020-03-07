@@ -7,7 +7,7 @@ Flashcard display a question that once clicked will display the answer. To retur
 
 ### App Walk-though
 
-<img src="https://media.giphy.com/media/IdmXUvUsm9DGa6OO1B/giphy.gif" width=200><br>
+<img src="https://media.giphy.com/media/XbZwP971U5Qb2QBn24/giphy.gif" width=200><br>
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
