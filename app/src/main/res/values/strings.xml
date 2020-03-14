@@ -1,9 +1,10 @@
 <resources>
     <string name="app_name">Flashcard</string>
     <string name="question">Who is the 44th President of the United States?</string>
-    <string name="answer">Barack Obama</string>
+    <string name="answer">The 44th President of the US is Barack Obama</string>
     <string name="addButtonDescription">add Button</string>
     <string name="closeButtonDescription">close Button</string>
     <string name="promtQues">Enter question</string>
     <string name="promtAns">Enter answer</string>
+    <string name="nextButtonDescription">next Button</string>
 </resources>
