@@ -1,5 +1,24 @@
 ## Flashcard
 
+## Lab 3
+
+### App Description
+Flashcard app that allows users to create and build their own collection of flashcards. Flashcards will be stored and displayed after users close and re-open the app.
+
+### App Walk-though
+
+<img src="https://media.giphy.com/media/Y34zOaYuIZ5MLBNkdQ/giphy.gif" width=200><br>
+
+## Required
+- [x] User can create a card and still see their created card when the app is relaunched.
+- [x] User can create muliple cards and browse through all created cards
+
+## Optional
+- [ ] User can delete a card and no longer see it in their deck anymore
+- [ ] Flashcards are shown in random order instead of the order they were created in
+- [ ] User can edit a card and see the edit saved when they browse through their deck of cards
+- [ ] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
+
 ## Lab 2
 
 ### App Description
@@ -43,4 +62,4 @@ A flashcard app that displays a question. Clicking the question will display the
 - [x] Style the question and answer side of the card to better distinguish between the two sides
 - [ ] Add selectable multiple choice answers beneath the card
    - [ ] Change the background color of the multiple choice answers when clicked to indicate whether the question waanswered correctly
-- [ ] Further customize and style the card
+- [x] Further customize and style the card
